@@ -9,7 +9,8 @@
 
 ## 2. Trải nghiệm(test) các mã nguồn được chia sẽ trên các diễn đàn.
 # Hình thức tham gia
-### Bước 1: Tạo tại khoản trên github
+### Bước 1: Tạo tại khoản trên github 
+Truy cập vào trang: https://github.com/join tiến hành tạo tài khoản và inbox facebook username github để yêu cầu tham gia dự án
 ### Bước 2: Chia sẻ
 Truy cập vào https://github.com/vnshares/jx-dev/issues để tạo ra các bài viết hướng dẫn, vấn đề cần hỏi, chia sẽ tool, công cụ phụ vụ cho các mã nguồn do Admin yêu cầu ví dụ: JX-Win phiên bản **Ngạo Tuyết Version2**, **JX-Linux 4.0** phiên bản siêu nhân là hai mã nguồn thông dụng nhất hiện nay.
 ### Bước 3: Nhận chi phí hỗ trợ từ dự án
