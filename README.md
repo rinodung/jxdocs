@@ -31,11 +31,16 @@ các thành viên được quyền sở hữu và sử dụng các mã nguồn �
 ## Học hỏi kiến thức: 
 Đây là mục tiêu chính của dự án, rất nhiều thành viên tâm huyết nhưng không nhận được thù lao xứng đáng với công sức bỏ ra. Đứng dưới vai trò người học hỏi chia sẻ của người khác **vnshares** sẽ có trách nhiệm hỗ trợ một phần thù lao cho các bạn. Các thành viên tham gia tích cực chia sẽ, đóng góp tinh thần lẫn vật chất nhé.
 # Liên hệ:
-**vnshares** thuộc quyền sở hữu của cá nhân xây dựng nhiều dự án để thỏa niềm đam mê về lập trình game, web và ứng dụng phục vụ cộng đồng. Chúng tôi nhận phát triển game, web, ứng dụng theo yêu cầu của khách hàng, giới thiệu, trải nghiệm game, web...
-Email: vnshares.com@gmail.com.
-FB Admin: https://www.facebook.com/hung.laquoc.921
-Fan Page: chưa có
-Youtube: https://www.youtube.com/channel/UCOL2VaRaFeKSBS1zFBIaNQw
+**vnshares** thuộc quyền sở hữu của cá nhân xây dựng nhiều dự án để thỏa niềm đam mê về lập trình game, web và ứng dụng phục vụ cộng đồng. Chúng tôi nhận  PR, giới thiệu, trải nghiệm server JX, phát triển JX, web theo yêu cầu của khách hàng.
+
+**Email:** vnshares.com@gmail.com.
+
+**FB Admin:** https://www.facebook.com/hung.laquoc.921
+
+**Fan Page:** chưa có
+
+**Youtube:** https://www.youtube.com/channel/UCOL2VaRaFeKSBS1zFBIaNQw
+
 # Thông tin tuyển dụng hợp tác
 - 1 dev jx win
 - 1 dev jx linux
