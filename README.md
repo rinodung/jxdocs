@@ -14,6 +14,7 @@
 Truy cập vào https://github.com/vnshares/jx-dev/issues để tạo ra các bài viết hướng dẫn, vấn đề cần hỏi, chia sẽ tool, công cụ phụ vụ cho các mã nguồn do Admin yêu cầu ví dụ: JX-Win phiên bản **Ngạo Tuyết Version2**, **JX-Linux 4.0** phiên bản siêu nhân là hai mã nguồn thông dụng nhất hiện nay.
 ### Bước 3: Nhận chi phí hỗ trợ từ dự án
 Mỗi bài chia sẻ, bài hướng dẫn **chất lượng** sẽ nhận được một khoản thù lao hỗ trợ từ chủ dự án **vnshares**, mỗi issue(nội dung) sẽ được kiểm duyệt và gán mác **kiểm duyệt** và Admin sẽ liên hệ để trả thù lao.
+
 **Chú Ý** 
 - Không đưa mã độc lên cho mọi người sử dụng, tài khoản cố tình phá dự án sẽ bị khóa vĩnh viễn.
 - Chi phí hỗ trợ tùy thuộc vào chất lượng của bài viết trung bình khoản 50k-100k-200k/bài chất lượng.
