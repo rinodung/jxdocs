@@ -31,13 +31,19 @@ các thành viên được quyền sở hữu và sử dụng các mã nguồn �
 ## Học hỏi kiến thức: 
 Đây là mục tiêu chính của dự án, rất nhiều thành viên tâm huyết nhưng không nhận được thù lao xứng đáng với công sức bỏ ra. Đứng dưới vai trò người học hỏi chia sẻ của người khác **vnshares** sẽ có trách nhiệm hỗ trợ một phần thù lao cho các bạn. Các thành viên tham gia tích cực chia sẽ, đóng góp tinh thần lẫn vật chất nhé.
 # Liên hệ:
+**vnshares** thuộc quyền sở hữu của cá nhân xây dựng nhiều dự án để thỏa niềm đam mê về lập trình game, web và ứng dụng phục vụ cộng đồng. Chúng tôi nhận phát triển game, web, ứng dụng theo yêu cầu của khách hàng, giới thiệu, trải nghiệm game, web...
 Email: vnshares.com@gmail.com.
 FB Admin: https://www.facebook.com/hung.laquoc.921
 Fan Page: chưa có
 Youtube: https://www.youtube.com/channel/UCOL2VaRaFeKSBS1zFBIaNQw
+# Thông tin tuyển dụng hợp tác
+- 1 dev jx win
+- 1 dev jx linux
+- 1 admin youtube, PR truyền thông mạng xã hội tốt.
 # Dự trù kinh phí: 30 Triệu / 1500$
-# Demo
+# Demo JX WIN
 ![test1](https://user-images.githubusercontent.com/42957164/45014970-757d1400-b04a-11e8-877a-1ae2c2d81a9e.png)
 ![test2](https://user-images.githubusercontent.com/42957164/45015063-bc6b0980-b04a-11e8-8612-731c5659ed90.png)
-![image](https://user-images.githubusercontent.com/42957164/45015097-db699b80-b04a-11e8-9ca1-2e783b87b2c1.png)
-![image](https://user-images.githubusercontent.com/42957164/45015129-f50ae300-b04a-11e8-808f-d62b5978f439.png)
+![test3](https://user-images.githubusercontent.com/42957164/45015190-19ff5600-b04b-11e8-9fc2-05ae52f174c8.png)
+![test4](https://user-images.githubusercontent.com/42957164/45015236-4024f600-b04b-11e8-8694-93732ea16f12.png)
+
