@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Liên hệ xây dựng Server Linux
+## 1. Các phiên bản theo đồ đạc
+- Phiên bản đồ xanh hiếm CTC 2005
+- Phiên bản đồ xanh, ép đồ tím CTC 2005
+- Phiên bản AB, ĐQ, HKMP
+- Phiên bản HKMP 150 siêu nhân(Thanh Câu, Bạch Hổ, Hắc Thần...)
+## 2. Các phiên bản theo hệ kỹ năng
+- Phiên bản thân pháp(chuẩn thân pháp DM), skill 90, 120 làm chủ đạo
+- Phiên bản nội công(ĐM, 5Doc tăng nội công nổ damge)  skill 90,120 làm chủ đạo
+- Phiên bản full phái ngoại công(tăng nội công ko lên lực tay) hỗ trợ tới 90,120 ,150, 180 
+## 3. Các phiên bản Multi Game Server
+- Chạy 1 GS(1 Game Server)
+- Chạy 2 GS(2 Game Server)
+- Chạy 4 GS(4 Game Server)
+- Chạy 8 GS(8 Game Server)
+## 4. Hỗ trợ Tool vận hành game như: AutoUpdate(source), AutoStart(source), Website(source), Admin Panel(quản lý nhân vật, item)
 
-You can use the [editor on GitHub](https://github.com/rinodung/jx-dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Xem chi tiết tại:
+https://github.com/rinodung/jx-dev/issues/56
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Liên hệ xây dựng Server Win
+Phiên bản công thành chiến(CTC) - đồ xanh ngũ hành - Hiệp Cốt, Nhu Tình, An Bang Định Quốc làm chủ đạo. Hoạt đồng đầy đủ. Nói không với kéo xe, giới hạn acc 2acc/pc, tống kim 1acc/pc.
+Hoàn thiện tính năng hệ thống skill chuẩn 120 theo 10 môn phái
+Hoạt động đầy đủ phong lăng độ, vượt ải, tống kim...
+Hệ thống auto ingame(chống kéo xe, can thiệp từ bên ngoài 99%)
+Hệ thống Anti phát triển từ source lên.
+## Xem chi tiết tại
+https://github.com/rinodung/jx-dev/issues/1
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rinodung/jx-dev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Demo
+![image](https://user-images.githubusercontent.com/7805715/149105395-e0512da9-7b2a-4842-b58f-8ff855577a34.png)
+### LIÊN HỆ - CHI PHÍ - HỖ TRỢ - XÂY DỰNG BẢN ONLINE
+ - FULL SUPPORT 2999k/tháng - Vietcombank: 0421000463116 Đồng Tiến Dũng Hoặc Momo: 0399938919 Đồng Tiến Dũng
+ - Nhận phát triển tính năng riêng cho server, cung cấp ý tưởng, kinh nghiệm vận hành game.
