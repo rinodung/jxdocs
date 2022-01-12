@@ -1,4 +1,4 @@
-# Liên hệ xây dựng Server Linux
+# Liên hệ xây dựng Server Linux -Zalo: 0399938919 Đồng Tiến Dũng
 ## 1. Các phiên bản theo đồ đạc
 - Phiên bản đồ xanh hiếm CTC 2005
 - Phiên bản đồ xanh, ép đồ tím CTC 2005
@@ -18,12 +18,13 @@
 ## Xem chi tiết tại:
 https://github.com/rinodung/jx-dev/issues/56
 
-# Liên hệ xây dựng Server Win
+# Liên hệ xây dựng Server Win - Zalo:  0399938919 Đồng Tiến Dũng
 Phiên bản công thành chiến(CTC) - đồ xanh ngũ hành - Hiệp Cốt, Nhu Tình, An Bang Định Quốc làm chủ đạo. Hoạt đồng đầy đủ. Nói không với kéo xe, giới hạn acc 2acc/pc, tống kim 1acc/pc.
-Hoàn thiện tính năng hệ thống skill chuẩn 120 theo 10 môn phái
-Hoạt động đầy đủ phong lăng độ, vượt ải, tống kim...
-Hệ thống auto ingame(chống kéo xe, can thiệp từ bên ngoài 99%)
-Hệ thống Anti phát triển từ source lên.
+
+- Hoàn thiện tính năng hệ thống skill chuẩn 120 theo 10 môn phái
+- Hoạt động đầy đủ phong lăng độ, vượt ải, tống kim...
+- Hệ thống auto ingame(chống kéo xe, can thiệp từ bên ngoài 99%)
+- Hệ thống Anti phát triển từ source lên.
 ## Xem chi tiết tại
 https://github.com/rinodung/jx-dev/issues/1
 
