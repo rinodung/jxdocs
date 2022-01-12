@@ -1,10 +1,11 @@
 # Giới thiệu
-**JX-DEV** là dự án chia sẽ lập trình phát triển võ lâm truyền kỳ offline (viết tắt là jx). 
+**JX-DEV** là dự án chia sẻ lập trình phát triển võ lâm truyền kỳ offline với 2 phiên bản Win và Linux (viết tắt là jx-win và jx-linux). 
 Đây là nơi chia sẻ về mặt kỹ thuật lập trình phát triển jx cụ thể về: code, script, tutorial... viết dưới dạng markdown.
 
 # Nội dung dự án
 ## 1. Chia sẽ mã nguồn mã nguồn ổn định gồm 2 phiên bản **JX-Win** và **JX-Linux**
 **JX-Win**: Viết tắt của võ lâm truyền kỳ trên nền Windows như: Giang Hồ Công Lý, Ngạo Tuyết, Thiên Tuyệt, Trường Kiếm...
+
 **JX-Linux**: Viết tắt của võ lâm truyền kỳ trên nền Linux như: Võ lâm miễn phí VNG, Võ Lâm Cộng Đồng, Võ Lâm Ngoại Sử...
 
 ## 2. Trải nghiệm(test) các mã nguồn được chia sẽ trên các diễn đàn.
