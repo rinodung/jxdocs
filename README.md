@@ -35,11 +35,10 @@ các thành viên được quyền sở hữu và sử dụng các mã nguồn �
 # Liên hệ:
 **vnshares** thuộc quyền sở hữu của cá nhân xây dựng nhiều dự án để thỏa niềm đam mê về lập trình game, web và ứng dụng phục vụ cộng đồng. Chúng tôi nhận  PR, giới thiệu, trải nghiệm server JX, phát triển JX, web theo yêu cầu của khách hàng.
 
-**Email:** vnshares.com@gmail.com.
 
-**FB Admin:** https://www.facebook.com/hung.laquoc.921
+**FB Admin:** https://www.facebook.com/dongtiendung.1991
 
-**Fan Page:** chưa có
+**Fan Page:** https://www.facebook.com/groups/jxdev
 
 **Youtube:** https://www.youtube.com/channel/UCOL2VaRaFeKSBS1zFBIaNQw
 
