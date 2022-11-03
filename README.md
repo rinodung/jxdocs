@@ -40,7 +40,7 @@ các thành viên được quyền sở hữu và sử dụng các mã nguồn �
 
 **Fan Page:** https://www.facebook.com/groups/jxdev
 
-**Youtube:** https://www.youtube.com/channel/UCOL2VaRaFeKSBS1zFBIaNQw
+**Youtube:** https://www.youtube.com/@jxdev.official
 
 # Thông tin phiên bản server đang phát triển
 - jx win: https://github.com/rinodung/jx-thientuyet-server
