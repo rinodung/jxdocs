@@ -1,4 +1,7 @@
-# Liên hệ xây dựng Server Linux -Zalo: 0399938919 Đồng Tiến Dũng
+# Liên hệ xây dựng phát triển jx(Win,Linux) -Zalo: 0399938919 Đồng Tiến Dũng
+## 10 buổi học dev jx cơ bản 3.990.000
+![lop-hoc-co-ban](https://user-images.githubusercontent.com/7805715/221497130-e5c8f853-6a0b-4909-b8da-4f1e1d363d6b.png)
+
 ## 1. Các phiên bản theo đồ đạc
 - Phiên bản đồ xanh hiếm CTC 2005
 - Phiên bản đồ xanh, ép đồ tím CTC 2005
