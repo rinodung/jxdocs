@@ -36,3 +36,4 @@ https://github.com/rinodung/jx-dev/issues/1
 ### LIÊN HỆ - CHI PHÍ - HỖ TRỢ - XÂY DỰNG BẢN ONLINE
  - FULL SUPPORT 2999k/tháng - Vietcombank: 0421000463116 Đồng Tiến Dũng Hoặc Momo: 0399938919 Đồng Tiến Dũng
  - Nhận phát triển tính năng riêng cho server, cung cấp ý tưởng, kinh nghiệm vận hành game.
+ - Bảng giá chi tiết tham khảo: https://tinyurl.com/wt59f33e
