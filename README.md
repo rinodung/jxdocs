@@ -2,7 +2,7 @@
 **JX-DEV** là cộng đồng nhỏ lập trình phát triển võ lâm truyền kỳ offline với 2 phiên bản Win và Linux (viết tắt là jx-win và jx-linux). 
 Đây là nơi chia sẻ về mặt kỹ thuật lập trình phát triển jx cụ thể về: code, script, settings, npcres,spr,ui.. viết dưới dạng markdown.
 ## Nội dung
-## 1. Chia sẻ mã nguồn mã nguồn ổn định gồm 2 phiên bản **JX-Win** và **JX-Linux**
+## 1. Lập trình phát triển jx với 2 phiên bản thông dụng: **JX-Win** và **JX-Linux**
 **JX-Win**: Viết tắt của võ lâm truyền kỳ trên nền Windows như: Giang Hồ Công Lý, Ngạo Tuyết, Thiên Tuyệt, Trường Kiếm... đa phần các chia sẻ trên diễn đàn là một bản server được build ra từ source gốc C++, source gốc được phát triển bởi các nhóm khác nhau nên cũng khác nhau về tính năng phải kể đến nổi bật nhất là nền Võ Lâm Thiên Tuyệt, Vân Thiên Kiếm...
 **JX-Linux**: Viết tắt của võ lâm truyền kỳ trên nền Linux như: Võ lâm miễn phí VNG, Võ Lâm Cộng Đồng, Võ Lâm Ngoại Sử... Đây là phiên bản server được sử dụng nhiều nhất hiện nay với Auto Game ngoài  tính năng đa dạng như: bạn đồng hành, kinh mạch, kỹ năng mới, môn phái mới được phát triển liên tục. Jx Linux tồn tại 2 phiên bản 6.0 và 8.0. Phiên bản 6.0 được phát triển ổn định và mở online rất nhiều kèm theo đó là các lỗi gây core dump cần phải có Anti Dump can thiệp nếu không muốn bị phá. Trong khi đó phiên bản 8.0 được chia sẻ rộng rãi thời gian gần đây(Nổi bật nhất có https://www.facebook.com/groups/volamquan) có nhiều tính năng mới gần giống với bản Võ Lâm Thu Phí VNG nhất.
 
