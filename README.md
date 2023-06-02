@@ -1,6 +1,7 @@
 # Giới thiệu
 **JX-DEV** là dự án lập trình phát triển võ lâm truyền kỳ offline với 2 phiên bản Win và Linux (viết tắt là jx-win và jx-linux). 
 Đây là nơi chia sẻ về mặt kỹ thuật lập trình phát triển jx cụ thể về: code, script, settings, npcres,spr,ui.. viết dưới dạng markdown.
+
 Hiện dự án nâng cấp chuyển về: https://jxdocs.com/ mong mọi người ủng hộ.
 # Nội dung
 ## 1. Lập trình phát triển jx với 2 phiên bản thông dụng: **JX-Win** và **JX-Linux**
